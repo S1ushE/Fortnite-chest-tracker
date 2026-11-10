@@ -11,7 +11,7 @@ A standalone Windows EXE for counting Fortnite pirate token chest openings.
 
 ## Quick Start
 
-1. Download `chest tracker.zip` from the Releases page
+1. Download `chest tracker.zip` from the [Releases page](https://github.com/S1ushE/Fortnite-chest-tracker/releases)
 2. Run `the EXE file`
 3. Press your chest hotkey (default: **E**) to increment the counter
 4. Press **O** to toggle the overlay
